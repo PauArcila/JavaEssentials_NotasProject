@@ -1,0 +1,127 @@
+11
+	CIENCIA 8,0
+	Promedio general: 8,0
+11
+	MATEMATICAS 5,7
+	CIENCIA 8,0
+	HISTORIA 5,0
+	Promedio general: 6,2
+33
+	MATEMATICAS 9,0
+	Promedio general: 9,0
+Samuel
+	MATEMATICAS 282,0
+	Promedio general: 282,0
+joserdito
+	HISTORIA 6,0
+	Promedio general: 6,0
+juancarlos
+	HISTORIA 8,0
+	Promedio general: 8,0
+juanopio
+	HISTORIA 5,0
+	Promedio general: 5,0
+Pepe
+	MATEMATICAS 4,4
+	LENGUAJE 3,9
+	Promedio general: 4,2
+11
+	MATEMATICAS 5,6
+	CIENCIA 9,0
+	HISTORIA 5,5
+	Promedio general: 6,4
+33
+	MATEMATICAS 9,0
+	Promedio general: 9,0
+Samuel
+	MATEMATICAS 175,0
+	HISTORIA 4,8
+	Promedio general: 101,0
+joserdito
+	HISTORIA 6,0
+	Promedio general: 6,0
+juancarlos
+	HISTORIA 8,0
+	Promedio general: 8,0
+juanopio
+	HISTORIA 5,0
+	Promedio general: 5,0
+Pepe
+	MATEMATICAS 4,4
+	LENGUAJE 3,9
+	Promedio general: 4,2
+11
+	MATEMATICAS 5,6
+	CIENCIA 9,0
+	HISTORIA 5,5
+	Promedio general: 6,4
+33
+	MATEMATICAS 9,0
+	Promedio general: 9,0
+Samuel
+	MATEMATICAS 175,0
+	HISTORIA 4,8
+	Promedio general: 101,0
+joserdito
+	HISTORIA 6,0
+	Promedio general: 6,0
+juancarlos
+	HISTORIA 8,0
+	Promedio general: 8,0
+juanopio
+	HISTORIA 5,0
+	Promedio general: 5,0
+Pepe
+	MATEMATICAS 4,4
+	LENGUAJE 3,9
+	Promedio general: 4,2
+11
+	MATEMATICAS 5,6
+	CIENCIA 9,0
+	HISTORIA 5,5
+	Promedio general: 6,4
+33
+	MATEMATICAS 9,0
+	Promedio general: 9,0
+Samuel
+	MATEMATICAS 175,0
+	HISTORIA 4,8
+	Promedio general: 101,0
+joserdito
+	HISTORIA 6,0
+	Promedio general: 6,0
+juancarlos
+	HISTORIA 8,0
+	Promedio general: 8,0
+juanopio
+	HISTORIA 5,0
+	Promedio general: 5,0
+Pepe
+	MATEMATICAS 4,4
+	LENGUAJE 3,9
+	Promedio general: 4,2
+11
+	MATEMATICAS 5,6
+	CIENCIA 9,0
+	HISTORIA 5,5
+	Promedio general: 6,4
+33
+	MATEMATICAS 9,0
+	Promedio general: 9,0
+Samuel
+	MATEMATICAS 175,0
+	HISTORIA 4,8
+	Promedio general: 101,0
+joserdito
+	HISTORIA 6,0
+	Promedio general: 6,0
+juancarlos
+	HISTORIA 8,0
+	Promedio general: 8,0
+juanopio
+	HISTORIA 5,0
+	Promedio general: 5,0
+Pepe
+	MATEMATICAS 4,4
+	LENGUAJE 3,9
+	Promedio general: 4,2
